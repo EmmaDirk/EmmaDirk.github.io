@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Pablo Mosteiro"
+  title: "Manolo Zapato"
   navbar:
     left:
       - href: index.qmd
