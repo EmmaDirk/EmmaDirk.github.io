@@ -1,0 +1,18 @@
+---
+title: "Developer Portfolio Mano"
+---
+
+# Personal Information
+
+I am, accordiing to autocomplete: a software developer based in India. I have a passion for creating innovative solutions and building user-friendly applications.
+
+# Skills
+
+Again according to autocomplete, my skills include:
+- Programming Languages: Python, JavaScript, Java
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, AWS
+
+# Curiculum Vitae
+
+You can see my CV here [Curriculum Vitae](https://example.com/cv).
