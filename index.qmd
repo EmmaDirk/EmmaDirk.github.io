@@ -4,7 +4,7 @@ title: "Developer Portfolio Mano"
 
 # Personal Information
 
-I am, accordiing to autocomplete: a software developer based in India. I have a passion for creating innovative solutions and building user-friendly applications.
+I am, according to autocomplete: a software developer based in India. I have a passion for creating innovative solutions and building user-friendly applications.
 
 # Skills
 
@@ -15,4 +15,4 @@ Again according to autocomplete, my skills include:
 
 # Curiculum Vitae
 
-You can see my CV here [Curriculum Vitae](https://example.com/cv).
+You can see my CV here [Curriculum Vitae](https://example.com/cv). 
