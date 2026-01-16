@@ -13,6 +13,3 @@ Again according to autocomplete, my skills include:
 - Frameworks: React, Node.js, Django
 - Tools: Git, Docker, AWS
 
-# Curiculum Vitae
-
-You can see my CV here [Curriculum Vitae](https://example.com/cv). 
